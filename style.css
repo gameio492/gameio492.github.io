@@ -22,10 +22,10 @@ nav a {
 nav a:hover {
     color: rgb(155, 155, 247);
 }
-.xd {
+img {
     transition: 1s;
 }
-.xd:hover {
+img:hover {
     transform: scale(500%);
 }
 .games {
